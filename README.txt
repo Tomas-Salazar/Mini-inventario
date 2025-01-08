@@ -9,3 +9,8 @@ Agregar productos, modificar productos, eliminar productos, ver todos o uno de l
 hacer un reporte de los productos cuya cantidad es igual o inferior al número que el usuario quiera poner como límite,
 función para vaciar todo el inventario ya que el script comienza con uno predeterminado,
 y por último tiene la posibilidad de elegir salir del programa en todo momento.
+
+------------- Update SQL
+Mantiene exactamente las mismas funcionalidades, solo que ahora el sistema de inventario
+hecho con diccionarios, ahora se encuentra implementado en SQL, más precisamente en MySQL.
+-------------
